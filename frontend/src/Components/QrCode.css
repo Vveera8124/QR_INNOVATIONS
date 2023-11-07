@@ -1,0 +1,21 @@
+.Container{
+  margin-top: 10;
+}
+.Title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20;
+  background: #00897b;
+  color: white;
+}
+/* .btn{
+  background-color: aqua;
+  color:black;
+  margin: 10px;
+} */
+.qrCode{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
